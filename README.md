@@ -6,7 +6,7 @@ This repository contains all assigned tasks and project implementations complete
 
 ## 📂 Internship Tasks Summary
 
-| Task # | Task Name | Domain | Status | Folder Link |
+| Tasks | Task Name | Domain | Status | Folder Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Task 01** | Movie Recommendation System | Machine Learning | Completed | [View Task 01](./Task_01_Movie_Recommendation_System/) |
 
