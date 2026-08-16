@@ -10,13 +10,14 @@ This repository contains all assigned tasks and project implementations complete
 | :--- | :--- | :--- | :--- | :--- |
 | **Task 01** | Movie Recommendation System | Machine Learning | Completed | [View Task 01](./Task_01_Movie_Recommendation_System/) |
 | **Task 02** | Music Recommendation System | Machine Learning | Completed | [View Task 02](./Task_02_Music_Recommendation_System/) |
+| **Task 02_b** | Sentiment Analysis Engine | Machine Learning | Completed | [View Task 02_b](./Task_02_b_Sentiment_Analysis/) |
 
 ---
 
 ## 🛠️ Tools & Technologies
 * **Language**: Python 3.12
-* **ML Algorithms & Techniques**: TF-IDF Vectorization, Feature Scaling (`StandardScaler`), Cosine Similarity
-* **Libraries**: Pandas, Scikit-Learn, Streamlit, Spotipy
+* **ML Algorithms & NLP**: TF-IDF Vectorization, Logistic Regression Classifier, Cosine Similarity
+* **Libraries**: Pandas, Scikit-Learn, Streamlit
 * **UI Platform**: Streamlit Web Framework
 
 ---
