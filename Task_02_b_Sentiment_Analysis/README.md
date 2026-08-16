@@ -1,4 +1,4 @@
-# Task 02: Sentiment Analysis using NLP & Machine Learning
+# Task 02_b: Sentiment Analysis using NLP & Machine Learning
 
 ## 📌 Project Overview
 An interactive **Sentiment Analysis Engine** that determines the emotional tone (Positive, Negative, or Neutral) behind bodies of text such as customer feedback, reviews, and social media posts.
