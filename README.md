@@ -11,6 +11,7 @@ This repository contains all assigned tasks and project implementations complete
 | **Task 01** | Movie Recommendation System | Machine Learning | Completed | [View Task 01](./Task_01_Movie_Recommendation_System/) |
 | **Task 02** | Music Recommendation System | Machine Learning | Completed | [View Task 02](./Task_02_Music_Recommendation_System/) |
 | **Task 02_b** | Sentiment Analysis Engine | Machine Learning | Completed | [View Task 02_b](./Task_02_b_Sentiment_Analysis/) |
+| **Task 03** | News Article Summarizer | Machine Learning | Completed | [View Task 03](./Task_03_News_Article_Summarizer/) |
 
 ---
 
