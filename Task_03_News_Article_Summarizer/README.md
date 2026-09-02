@@ -25,8 +25,42 @@ An interactive **Extractive Text Summarization Engine** that automatically conde
 
 ---
 
-## ⚙️ How to Run Locally (Windows Command Prompt)
+## ▶️ How to Run
 
-1. Navigate to the Task 03 directory:
-   ```cmd
-   cd Task_03_News_Article_Summarizer
+### 1. Navigate to the Project Directory
+
+Open Windows Command Prompt and navigate to the Task 2 directory:
+
+```cmd
+cd Task_03_News_Article_Summarizer
+```
+
+### 2. Activate the Virtual Environment
+
+```cmd
+..\venv\Scripts\activate
+```
+
+### 3. Install Dependencies
+
+```cmd
+pip install -r requirements.txt
+```
+
+### 4. Start the Streamlit Application
+
+```cmd
+streamlit run app.py
+```
+
+The Streamlit application will open in your default web browser.
+
+---                              
+
+## 👩‍💻 Author
+
+**Aqsa Jamali**
+
+GitHub: https://github.com/AqsaAliRazaJamali
+
+
