@@ -23,7 +23,7 @@ This repository contains all assigned tasks and project implementations complete
 
 ---
 
-## 👤 Intern Details
+## 👩‍💻 Intern Details
 * **Developer**: Aqsa Ali Raza Jamali
 * **GitHub Profile**: [AqsaAliRazaJamali](https://github.com/AqsaAliRazaJamali)
 * **Company**: Crixsoft Solution
