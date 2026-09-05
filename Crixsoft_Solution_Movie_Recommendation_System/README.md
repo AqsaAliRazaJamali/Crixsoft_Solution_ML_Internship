@@ -1,5 +1,10 @@
 # Task 01: Machine Learning Movie Recommendation System
 
+![Task Status](https://img.shields.io/badge/Task%2001-Completed-brightgreen?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Machine%20Learning-blue?style=for-the-badge)
+![TF-IDF](https://img.shields.io/badge/Algorithm-TF--IDF%20%2B%20Cosine%20Similarity-orange?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ##  Project Overview
 An interactive **Machine Learning Recommendation System** built using Content-Based Filtering. The model cleans unstructured text features (genres and overviews), vectorizes text data using **TF-IDF Vectorization**, and computes pairwise distance matrix metrics using **Cosine Similarity** to provide personalized recommendations across 4,800+ movies.
 
