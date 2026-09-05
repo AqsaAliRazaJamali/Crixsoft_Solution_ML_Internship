@@ -1,5 +1,10 @@
 # Task 03: Machine Learning News Article Summarizer
 
+![Task Status](https://img.shields.io/badge/Task%2003-Completed-brightgreen?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Text%20Summarization-blue?style=for-the-badge)
+![Technique](https://img.shields.io/badge/Algorithm-Extractive%20TF--IDF%20Ranking-purple?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ## 📌 Project Overview
 An interactive **Extractive Text Summarization Engine** that automatically condenses long news articles into concise, key insights. The model evaluates sentence importance by vectorizing sentence contents using **TF-IDF Vectorization** and measuring document centrality using **Cosine Similarity matrices**.
 
