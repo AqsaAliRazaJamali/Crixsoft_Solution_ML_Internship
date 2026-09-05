@@ -1,5 +1,10 @@
 # Task 02_b: Sentiment Analysis using NLP & Machine Learning
 
+![Task Status](https://img.shields.io/badge/Task%2002-Completed-brightgreen?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-NLP%20%26%20Classification-blue?style=for-the-badge)
+![Classifier](https://img.shields.io/badge/Algorithm-Logistic%20Regression-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ## 📌 Project Overview
 An interactive **Sentiment Analysis Engine** that determines the emotional tone (Positive, Negative, or Neutral) behind bodies of text such as customer feedback, reviews, and social media posts.
 
